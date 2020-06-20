@@ -1,4 +1,4 @@
-# FlappyBirdMockup- JumpyPlaneGame
+# NEAT Alg:FlappyBirdMockup- JumpyPlaneGame
 
 AI plays a Flappy-Bird Mockup Game.
 
